@@ -1,69 +1,60 @@
-# Hi, I'm Mayur Kushwah
+# Hi, I'm Mayur Kushwah 👋
 
-- Computer Science Student  
-- Android Developer (Java & XML)  
-- Passionate about building mobile applications  
+🎓 Computer Science Student at JUET Guna
+📱 Android Developer (Java & XML)
+💻 Learning DSA, Machine Learning, and Android Development
+🚀 Passionate about building useful software
 
 ---
 
 ## About Me
-- Currently learning Advanced Android Development  
-- Building beginner-friendly Android apps  
-- Improving Git & GitHub skills  
-- Goal: Become a Professional Android Developer  
+
+- Currently learning Advanced Android Development
+- Exploring Machine Learning and AI
+- Improving Problem Solving & DSA
+- Building Android applications using Java & XML
+- Strengthening Git & GitHub skills
+- Goal: Become a Professional Software Engineer
 
 ---
 
 ## Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+### Languages
+- Java
+- C++
+- Python
+
+### Mobile Development
+- Android Studio
+- XML
+
+### Machine Learning
+- NumPy
+- Pandas
+- Scikit-learn
+
+### Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## Featured Projects
+## Current Focus
 
-### CurrencyConverter App
-A simple Android application to convert currency values using user input.
-
-Features:
-- Real-time conversion
-- Clean UI
-- Input validation
-  
-### ImageSwitcher App
-Simple Android app to switch images with click animation.
-
-### SuperHeroAnimation App
-Android animation demo using:
-- animate()
-- setDuration()
-- alpha()
-- scale()
-- translation()
-
----
-
-## Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mayurkushwah-creator&theme=tokyonight)
-
----
-
-## GitHub Activity
-
-- Public Repositories  
-- Contributions Graph  
-- Commit History  
-- Project Activity  
+- Data Structures & Algorithms
+- Android Development
+- Machine Learning
+- Open Source
 
 ---
 
 ## Connect With Me
-- LinkedIn: (www.linkedin.com/in/mayur-kushwah-065a67397)
+
+LinkedIn:
+www.linkedin.com/in/mayur-kushwah-065a67397
 
 ---
 
-“Code. Learn. Build. Repeat.”
+> "Code. Learn. Build. Repeat."
