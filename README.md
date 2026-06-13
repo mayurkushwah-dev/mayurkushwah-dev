@@ -107,15 +107,8 @@
 
 <div align="center">
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### Code. Learn. Build. Repeat.
 
 </div>
-
-<!-- Pin your best repositories:
-1. AgroSmart
-2. Smart Scanner
-3. House Price Prediction
-4. Email Spam Classifier
-5. Movie Recommendation System
-6. Best Android Project
--->
